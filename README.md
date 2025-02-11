@@ -52,6 +52,6 @@ Tenho 22 anos e sou natural do Rio de Janeiro. Atualmente estou terminando minha
     align="left"
     alt="Github Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocaetano0&theme=dark&custom_title=Tecnologias&layout=donut-vertical&https://github.com/anuraghazra/github-readme-stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocaetano0&theme=dark&custom_title=Tecnologias&layout=donut-vertical&https://github.com/eduardocaetano0/github-readme-stats"
 />
 </p>
