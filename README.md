@@ -29,15 +29,15 @@ Tenho 22 anos e sou natural do Rio de Janeiro. Atualmente estou terminando minha
     align="left"
     alt= "JAVA"
     title="JAVA"
-    width="55px"
+    width="58px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
 <img 
     align="left"
-    alt= "JAVA"
-    title="JAVA"
+    alt= "GIT"
+    title="GIT"
     width="55px"
     style="padding-right: 10px;"        
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
