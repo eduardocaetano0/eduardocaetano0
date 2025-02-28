@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Tenho 22 anos e sou natural do Rio de Janeiro. Atualmente estou terminando minha faculdade de Análise e desenvolvimento de sistemas. Gosto muito de tecnologia e também de animações.
+Tenho 22 anos e sou natural do Rio de Janeiro. Atualmente estou terminando a faculdade de Análise e desenvolvimento de sistemas. Gosto muito de tecnologia e também de animações.
 
 <p align="left"> 
 <a href="https://github.com/eduardocaetano0?tab=followers">
@@ -29,37 +29,16 @@ Tenho 22 anos e sou natural do Rio de Janeiro. Atualmente estou terminando minha
 
 ### 🖥️ Linguagens e Tecnologias
 
-<img 
-    align="left"
-    alt= "JAVA"
-    title="JAVA"
-    width="58px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-<img 
-    align="left"
-    alt= "GIT"
-    title="GIT"
-    width="45px"
-    style="padding-right: 10px;"        
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
-/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 <br/>
+
 ### 📊 Estatísticas
 
 <div align="center"> 
-<img 
-width="49%"
-height="195px"
-src="https://github-readme-stats.vercel.app/api?username=eduardocaetano0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color00bfbf&text_color=c9d1d9&bg_color=0d1117" 
-alt="Caetano github stats"/> 
-
- <img 
- width="41%"
- height="195px"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocaetano0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<img width="49%"height="195px"src="https://github-readme-stats.vercel.app/api?username=eduardocaetano0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caetano github stats"/> 
+ <img width="41%"height="195px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocaetano0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7306f7&height=120&section=footer"/>
