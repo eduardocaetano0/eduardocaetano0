@@ -22,6 +22,7 @@ Tenho 22 anos e sou natural do Rio de Janeiro. Atualmente estou terminando a fac
         />
 </p>
 <div align="left">  
+        
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:caetano.nascimento.dev@gmail.com)
 </div> 
 
