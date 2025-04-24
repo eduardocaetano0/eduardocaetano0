@@ -6,7 +6,7 @@
 
 Tenho 22 anos e sou natural do Rio de Janeiro.Gosto muito de tecnologia e também de animações.
 
-🎓 Systems analysis and developmentundergraduate
+🎓 Systems analysis and developmentundergraduate<br/>
 📚 Currently focusing my studies in Python, Java(w/ Spring Framework)
 
 <p align="left"> 
