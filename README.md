@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Tenho 22 anos e sou natural do Rio de Janeiro.Gosto muito de tecnologia e também de animações.
+Tenho 22 anos e sou natural do Rio de Janeiro. Gosto muito de tecnologia e também de animações.
 
 🎓 Systems analysis and development undergraduate<br/>
 📚 Currently focusing my studies in Python, Java(w/ Spring Framework)
