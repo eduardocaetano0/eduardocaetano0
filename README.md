@@ -4,10 +4,10 @@
 
 **`Desenvolvedor Back-End`**
 
-Tenho 22 anos e sou natural do Rio de Janeiro. Gosto muito de tecnologia e de animações.
+Tenho 23 anos e sou natural do Rio de Janeiro. Gosto muito de tecnologia e de animações.
 
-🎓 Systems analysis and development undergraduate<br/>
-📚 Currently focusing my studies in Python, Java(w/ Spring Framework)
+🎓 Systems analysis and development graduated<br/>
+📚 Currently focusing my studies in  Java(w/ Spring Framework)
 
 <p align="left"> 
 <a href="https://github.com/eduardocaetano0?tab=followers">
